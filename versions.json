@@ -1,5 +1,5 @@
 /*
-// Search for the year based on the sqlite3 version number
+// Search for the year based on the sqlite3 version
 // run this script on https://www.sqlite.org/chronology.html
 
 const versions = {};
